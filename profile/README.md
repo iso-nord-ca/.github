@@ -5,6 +5,8 @@
 **Independent creative technology from Québec City.**  
 Privacy-first software · Local AI · Native tools · Cinematic digital experiences
 
+English · [Français](README.fr.md)
+
 [Explore the work](#selected-work) · [See what is emerging](#coming-into-view) · [Get in touch](#contact)
 
 </div>
@@ -91,7 +93,23 @@ We approach these projects as research with a destination. Prototypes establish 
 
 ## Selected work
 
-The projects below are public experiments and releases. They currently live under the founder’s GitHub account while the ISO NORD organization is established; their links point to the canonical repositories.
+The projects below are public experiments and releases. Some live in the ISO NORD organization; others are published under the founder's account. Each link points to the canonical repository.
+
+### [Hurst](https://github.com/iso-nord-ca/hurst-framework)
+
+**A TypeScript algorithmic trading framework — write a strategy once, run it in backtest, paper, and live modes.**
+
+Hurst is the organization's flagship infrastructure project: a hexagonal trading engine for Interactive Brokers and beyond. Strategies are written once and run unchanged across backtest, paper, and live modes, with isolated sub-portfolios, Sharpe/Sortino/drawdown metrics, and a CLI. Phase 1 (the backtest engine, CSV+Parquet adapters, 72 passing tests) is implemented and published on npm as [hurst-framework](https://www.npmjs.com/package/hurst-framework).
+
+The ecosystem spans focused repositories — broker adapters, data importers, a 55-strategy library, a risk-management overlay, Docker packaging with IB Gateway, a terminal UI with an AI assistant, and a companion website. It is honest about maturity: what is built, what is stubbed, and what comes next is written down.
+
+### [Folia](https://github.com/iso-nord-ca/folia)
+
+**Real-time AI voice notes. You talk, Folia writes.**
+
+Folia structures your voice into clean notes, summaries, to-dos, math, and diagrams as you speak — then lets you search, replay, edit, and chat with everything you have recorded. The bet is live structuring rather than post-hoc transcription: the value shows up while you are recording, not five minutes after.
+
+It is early development, with an open [spec](https://github.com/iso-nord-ca/folia-docs). The design goal is stationery that happens to be alive — quiet, editorial, nothing that looks like a productivity tool.
 
 ### [Nova Computer Use](https://github.com/theodorebeaupre-prog/nova-computer-use)
 
@@ -192,6 +210,12 @@ The repository is free and intentionally approachable. Better agent workflows sh
 ## Coming into view
 
 The following projects are private or still in development. They are included here as directions, not promises. There are no announced beta dates, and details may change as the work becomes clearer.
+
+### kitty — In development
+
+kitty is the group chat's money layer for Canada: one link, everyone chips in, nobody gets chased. It coordinates group purchases over Interac e-Transfer — collecting confirmations, tracking who is in, and keeping things transparent — while never holding, moving, or escrowing funds. Money moves directly between participants on rails we do not operate, and that boundary is treated as a hard compliance line, not a feature.
+
+It is a deliberately small product with a deliberately clear edge.
 
 ### VISO ID — Research / private preview
 
