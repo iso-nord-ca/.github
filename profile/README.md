@@ -1,101 +1,38 @@
 <div align="center">
 
-# Technology, shaped by the North.
+# NORD LABS
 
-**Independent creative technology from Québec City.**  
-Privacy-first software · Local AI · Native tools · Cinematic digital experiences
+**Software · AI · Open Source**  
+The software division of ISO NORD — Québec City.
 
 English · [Français](README.fr.md)
 
-[Explore the work](#selected-work) · [See what is emerging](#coming-into-view) · [Get in touch](#contact)
+[Selected work](#selected-work) · [Coming into view](#coming-into-view) · [How we build](#how-we-build) · [Get in touch](#contact)
 
 </div>
 
 ---
 
-## We build at the edge of software and image
+## The lab
 
-ISO NORD is an independent creative technology lab from Québec City, building privacy-first software, open-source developer tools, intelligent products, and cinematic digital experiences.
+NORD LABS is where [ISO NORD](https://iso-nord.ca) builds software. The division concentrates the engineering side of the brand: developer tools, AI products, trading infrastructure, voice interfaces, and open source.
 
-The most interesting products rarely stay inside one category. A native Mac utility can express how computers should feel. A photography tool can be applied computer vision. A city platform can combine geospatial systems, real-time graphics, and filmmaking language. An AI workflow can become infrastructure for an independent builder.
+ISO NORD is the broader independent creative technology brand from Québec City — software, image, and cinematic work under one practice. NORD LABS is its code. The two sides share one standard: useful before impressive, understandable before clever, crafted from internal architecture to final pixel.
 
-ISO NORD exists in that overlap.
+The work spans Swift, SwiftUI, TypeScript, Go, Python, web graphics, computer vision, local models, and agent tooling. The stack changes with the problem. The principles do not.
 
-We build considered technology: useful before impressive, understandable before clever, and crafted from internal architecture to final pixel. We work across Swift, SwiftUI, TypeScript, Go, Python, web graphics, computer vision, local models, agent tooling, and creative production. The stack changes with the problem. The principles do not.
+## What we build
 
-The name comes from Québec City: northern without being remote, historic without being frozen in time, and built from contrasts. That environment shapes the work. Resilience, clarity, atmosphere, and small details matter because they make a system trustworthy. Some projects become products, some become open infrastructure, and others remain research until the idea is ready.
-
-## A manifesto for useful ambition
-
-### The best technology creates agency
-
-A computer should make its user more capable. It should remove repetitive work, expose meaningful control, and help a person move from intention to result without demanding that they surrender their judgment.
-
-That is especially important as software becomes more autonomous. AI systems can now see screens, generate media, route work, operate tools, and coordinate other agents. The opportunity is enormous, but so is the temptation to replace transparency with spectacle. We take the opposite approach. The user should know what a system can do, where information goes, what remains local, and how to stop or reverse an action.
-
-Agency is not a settings page added at the end. It is an architectural choice.
-
-### Privacy is a product feature
-
-Local-first is not a slogan for us. It is often the shortest path to a faster, more reliable, more respectful product. When a task can happen on the device, it should not automatically require a server round trip. When sensitive media can be analyzed with Apple frameworks or local models, it should not be uploaded simply because cloud inference is convenient. When a developer tool can run without telemetry, an account, or an API key, that simplicity is worth protecting.
-
-Privacy also changes the feeling of a product. A local tool can be immediate. It can work during a network outage. It can operate on private repositories, personal photographs, or system context without turning that material into someone else’s dataset. It can be inspected, controlled, and removed.
-
-Not every system can be entirely local, and pretending otherwise would be dishonest. But every project can minimize collection, make boundaries explicit, and treat trust as part of the interface.
-
-### Craft includes the invisible parts
-
-Good software is more than a screenshot. Motion, typography, latency, keyboard behavior, error recovery, installation, documentation, naming, accessibility, data formats, and the ability to undo a change all contribute to quality.
-
-The invisible parts matter too: a clear repository, safe defaults, predictable state, understandable logs, reversible operations, and components that can evolve without turning the entire product into a puzzle. We like native platforms because they can make these details feel natural, but we are not attached to nativeness as a badge. We use it when it creates a better relationship between the tool and the machine.
-
-Our visual background influences this engineering practice. In cinematography, the frame is only the surface. Lens choice, blocking, light, rhythm, sound, and editing determine whether the image means anything. Software works the same way. The interface is the frame; architecture and behavior create the experience.
-
-### Open source is a conversation
-
-Open source can be a distribution model, but its deeper value is legibility. It allows an idea to be tested in public. It invites someone to challenge an assumption, adapt a component, learn from a failure, or carry a project into a context its original author never imagined.
-
-We publish tools when openness makes them more useful. That may mean a full application, a command-line utility, a documented binary format, a workflow template, or a small guardrail that prevents a dangerous command. The scale is secondary. A twenty-line script can change a developer’s day; a complete native app can become a foundation for a community.
-
-Open also means honest. Early projects should look early. Limitations should be written down. Licenses should be clear. A public repository is not automatically a finished product, and experimentation should not be disguised as stability.
-
-### Small teams can build serious systems
-
-The modern software workshop has changed. One focused builder can now combine native development, AI-assisted research, design systems, automated testing, media production, and distribution in a single workflow. That does not remove the need for expertise. It makes judgment more valuable.
-
-ISO NORD explores tools for this new scale of work: routing tasks to the right coding agent, monitoring MCP servers, turning an iPad into a control surface, generating motion graphics locally, and coordinating a fleet of agents without hiding what they are doing. These projects are not about replacing teams with prompts. They are about giving independent builders better instruments.
-
-## Four territories
-
-### 01 — Native software
-
-Native apps can feel like part of the computer rather than a website placed inside it. We build for Apple platforms when deep system integration, performance, privacy, or interaction quality makes that choice meaningful.
-
-Our native work includes menu-bar utilities, media tools, system customization, computer-use infrastructure, and iOS research. Swift and SwiftUI let us work close to platform capabilities such as Vision, file metadata, accessibility, system appearance, and local process control. The goal is not to imitate Apple. It is to understand the platform well enough to create software with its own identity that still feels at home.
-
-### 02 — Local AI and agent tools
-
-Agents are becoming a new interface layer for software development and computer operation. We are building the support systems around them: orchestration, observability, routing, physical controls, safe defaults, and native computer use.
-
-This territory is deliberately practical. An agent should be easier to understand when it fails. Multiple tools should not require a maze of configuration. A local workflow should not demand another subscription or API key when an existing authenticated product can do the work. The result should feel less like a demo and more like dependable equipment.
-
-### 03 — Creative technology
-
-Creative work is full of technical friction: reviewing thousands of images, maintaining metadata, generating motion assets, moving between devices, and turning an abstract brief into something visible. Our creative tools come from direct experience with photography, video, drone work, and motion design.
-
-We are interested in automation that protects taste. The machine can detect blur, group bursts, render variations, or assemble a pipeline. The person still decides what matters. Great creative software does not erase authorship; it gives authors more time for the decisions only they can make.
-
-### 04 — Experimental platforms
-
-Some ideas need room before they become products. Digital twins, biometric verification, night-observation archives, administrative navigation, and spatial interfaces combine policy, design, sensing, data, and storytelling in ways that cannot be reduced to a weekend feature list.
-
-We approach these projects as research with a destination. Prototypes establish the interaction. Open-source editions test the architecture. Private previews protect unfinished work while the boundaries become clear. When something enters public view, its status is stated plainly.
+- **Developer tools and agent infrastructure** — the support systems around AI-assisted work: orchestration, observability, routing, and native computer use.
+- **AI products** — applied intelligence with local-first and privacy-first defaults, from real-time voice notes to biometric research.
+- **Trading infrastructure** — Hurst, a TypeScript algorithmic trading framework built for backtest, paper, and live execution.
+- **Open source** — tools published when openness makes them more useful, with honest maturity labels and clear licenses.
 
 ## Selected work
 
-The projects below are public experiments and releases. Some live in the ISO NORD organization; others are published under the founder's account. Each link points to the canonical repository.
+The projects below are public experiments and releases. Some live in the NORD LABS organization; others are published under the founder's account. Each link points to the canonical repository.
 
-### [Hurst](https://github.com/iso-nord-ca/hurst-framework)
+### [Hurst](https://github.com/nord-labs/hurst-framework)
 
 **A TypeScript algorithmic trading framework — write a strategy once, run it in backtest, paper, and live modes.**
 
@@ -103,13 +40,13 @@ Hurst is the organization's flagship infrastructure project: a hexagonal trading
 
 The ecosystem spans focused repositories — broker adapters, data importers, a 55-strategy library, a risk-management overlay, Docker packaging with IB Gateway, a terminal UI with an AI assistant, and a companion website. It is honest about maturity: what is built, what is stubbed, and what comes next is written down.
 
-### [Folia](https://github.com/iso-nord-ca/folia)
+### [Folia](https://github.com/nord-labs/folia)
 
 **Real-time AI voice notes. You talk, Folia writes.**
 
 Folia structures your voice into clean notes, summaries, to-dos, math, and diagrams as you speak — then lets you search, replay, edit, and chat with everything you have recorded. The bet is live structuring rather than post-hoc transcription: the value shows up while you are recording, not five minutes after.
 
-It is early development, with an open [spec](https://github.com/iso-nord-ca/folia-docs). The design goal is stationery that happens to be alive — quiet, editorial, nothing that looks like a productivity tool.
+It is early development, with an open [spec](https://github.com/nord-labs/folia-docs). The design goal is stationery that happens to be alive — quiet, editorial, nothing that looks like a productivity tool.
 
 ### [Nova Computer Use](https://github.com/theodorebeaupre-prog/nova-computer-use)
 
@@ -125,13 +62,13 @@ The project sits at the intersection of accessibility APIs, agent tooling, and t
 
 Agentbar gives agent-heavy workflows a native place to live. It is free, local, and designed with zero telemetry. Rather than treating coding agents as invisible background processes, it makes their presence and activity easier to reach from the system interface developers already use all day.
 
-The project reflects an ISO NORD pattern: observability should be lightweight enough to remain open, not another dashboard that demands constant attention.
+Observability should be lightweight enough to remain open, not another dashboard that demands constant attention.
 
 ### [PhotoCull](https://github.com/theodorebeaupre-prog/photocull)
 
 **On-device photo culling for macOS.**
 
-PhotoCull applies computer vision to one of photography’s least cinematic realities: sorting a large shoot. It detects blur and closed eyes, groups bursts, and writes XMP sidecars that fit into Lightroom workflows. Analysis stays on the device.
+PhotoCull applies computer vision to one of photography's least cinematic realities: sorting a large shoot. It detects blur and closed eyes, groups bursts, and writes XMP sidecars that fit into Lightroom workflows. Analysis stays on the device.
 
 The purpose is not to let an algorithm choose the final photograph. It is to surface technical problems and repeated frames quickly, so the photographer can spend more attention on expression, timing, story, and the images that deserve a second look. PhotoCull is free, open source, written in Swift, and licensed under MIT.
 
@@ -165,7 +102,7 @@ Its aviation language is not decoration. Good launches depend on preparation, ch
 
 CoMotion combines a Claude Code skill, MCP server, and CLI into a local video-generation pipeline. It can turn a brief into motion graphics with voiceover while keeping rendering self-hosted. The project explores a creative workflow in which AI coordinates production steps without forcing the entire process into a closed generation platform.
 
-For ISO NORD, this is the interesting part of generative media: not a single surprising output, but a system that can be inspected, directed, repeated, and integrated into real production.
+The interesting part of generative media is not a single surprising output, but a system that can be inspected, directed, repeated, and integrated into real production.
 
 ### [ISO OS — Open Source](https://github.com/theodorebeaupre-prog/iso-os-oss)
 
@@ -189,7 +126,7 @@ Aura is open source under MIT and approaches customization as product design rat
 
 The Garmin GCD Toolkit documents a firmware-container format and provides a Python CLI for analysis. It grew from hands-on reverse engineering and an interest in interoperability: understanding how an existing device stores and moves its software, then turning that understanding into reproducible tooling.
 
-This work represents another side of ISO NORD. Not every project starts with a new interface. Sometimes the valuable work is careful observation, binary analysis, documentation, and leaving the path clearer for the next researcher.
+Not every project starts with a new interface. Sometimes the valuable work is careful observation, binary analysis, documentation, and leaving the path clearer for the next researcher.
 
 ### [CoPad Server](https://github.com/theodorebeaupre-prog/copad-server)
 
@@ -219,7 +156,7 @@ It is a deliberately small product with a deliberately clear edge.
 
 ### VISO ID — Research / private preview
 
-VISO ID investigates privacy-first local biometric verification for iPhone and Mac. The research focuses on how identity or presence can be verified while keeping sensitive biometric processing close to the user’s devices and making system boundaries understandable.
+VISO ID investigates privacy-first local biometric verification for iPhone and Mac. The research focuses on how identity or presence can be verified while keeping sensitive biometric processing close to the user's devices and making system boundaries understandable.
 
 Biometrics is a high-trust domain. The project is therefore being treated as research before product: threat models, storage, liveness, transport, enrollment, recovery, and user comprehension matter as much as recognition performance.
 
@@ -233,11 +170,11 @@ The open-source repository is the public window. The broader product remains in 
 
 Nocturne is a cinematic WebGL night-observation archive built with Astro, Lenis, and Three.js. Shader-driven image planes remain synchronized with the document, allowing the interface to preserve the rhythm of editorial browsing while introducing depth, movement, and atmosphere.
 
-It is a meeting point between photographic archive, web engineering, and night cinematography—less a gallery template than an experiment in how digital space can carry a visual memory.
+It is a meeting point between photographic archive, web engineering, and night cinematography — less a gallery template than an experiment in how digital space can carry a visual memory.
 
 ### Cairn — In development
 
-Cairn is a SwiftUI administrative navigation app for major life transitions in Québec. Its premise is that important moments—moving, changing status, starting a new chapter—often create a confusing map of forms, institutions, deadlines, and dependencies.
+Cairn is a SwiftUI administrative navigation app for major life transitions in Québec. Its premise is that important moments — moving, changing status, starting a new chapter — often create a confusing map of forms, institutions, deadlines, and dependencies.
 
 The name refers to a marker that helps someone find a path through difficult terrain. The product is being developed with the same intention: make bureaucracy legible without pretending it is simple.
 
@@ -262,9 +199,9 @@ AI is part of the workshop, not the author of record. Models can accelerate rese
 
 ## Open work, open doors
 
-ISO NORD’s public repositories are working objects. Some are complete utilities; others are active experiments. Issues, focused pull requests, careful bug reports, documentation improvements, and real-world feedback are welcome where a repository supports them.
+NORD LABS' public repositories are working objects. Some are complete utilities; others are active experiments. Issues, focused pull requests, careful bug reports, documentation improvements, and real-world feedback are welcome where a repository supports them.
 
-Before contributing, read the project’s own README and license. Each tool has different boundaries. A native macOS app, a firmware research toolkit, and an agent skill family should not be forced into the same contribution process.
+Before contributing, read the project's own README and license. Each tool has different boundaries. A native macOS app, a firmware research toolkit, and an agent skill family should not be forced into the same contribution process.
 
 If you use one of the tools, the most valuable feedback is concrete: what you were trying to do, which environment you used, what happened, what you expected, and whether the problem can be reproduced. If you extend a project, explain the use case before the implementation. Clear intent makes technical review faster.
 
@@ -272,34 +209,29 @@ We also believe unfinished knowledge can be useful. A documented constraint, an 
 
 ## Built in Québec City
 
-ISO NORD is based in Québec City, Canada.
+NORD LABS is based in Québec City, Canada, and is part of ISO NORD.
 
-The studio’s perspective comes from making software and images in the same place: writing Swift beside camera batteries, testing local infrastructure on old and new Macs, studying motion through both interface animation and real footage, and treating the city as a technical environment as much as a backdrop.
-
-The North in ISO NORD is not a claim of distance or severity. It is a design constraint and a source of character. Build for changing conditions. Make systems that remain useful. Respect the material. Let light, motion, silence, and precision do some of the talking.
+The North in the name is not a claim of distance or severity. It is a design constraint and a source of character. Build for changing conditions. Make systems that remain useful. Respect the material.
 
 We are early, independent, and still defining the full shape of the lab. That is an advantage. It leaves room to connect disciplines before organizational boundaries harden around them. It makes it possible for a firmware tool, a photo-culling app, a city platform, and an agent dashboard to inform one another.
 
-Different outputs. One practice.
-
 ## Contact
 
-For collaboration, project questions, creative technology work, or thoughtful conversations about what we are building:
+For collaboration, project questions, or conversations about what we are building:
 
 - **Email:** [info@theo-picture.com](mailto:info@theo-picture.com)
-- **GitHub:** [@iso-nord-ca](https://github.com/iso-nord-ca)
+- **GitHub:** [@nord-labs](https://github.com/nord-labs)
 - **Founder:** [@theodorebeaupre-prog](https://github.com/theodorebeaupre-prog)
-- **Instagram:** [@iso_nord](https://www.instagram.com/iso_nord/)
+- **ISO NORD:** [iso-nord.ca](https://iso-nord.ca)
 
-If you are writing about a specific open-source project, use that repository’s issue tracker when possible. It keeps technical context public and useful to the next person.
+If you are writing about a specific open-source project, use that repository's issue tracker when possible. It keeps technical context public and useful to the next person.
 
 ---
 
 <div align="center">
 
-**ISO NORD**  
-Independent creative technology from Québec City.
-
-*Build close to the machine. Keep people in control. Make it worth looking at.*
+**NORD LABS**  
+Software · AI · Open Source  
+Part of ISO NORD
 
 </div>
