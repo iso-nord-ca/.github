@@ -16,7 +16,7 @@ jobs:
   ai-review:
     if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: [self-hosted, ai-review]
-    timeout-minutes: 25
+    timeout-minutes: 45
     steps:
       - name: Deep review via Hermes Agent
         env:
